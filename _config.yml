@@ -1,18 +1,12 @@
-title: Your awesome title
-email: your-email@example.com
+title: Observatoire Sans Tête
 description: >-
-  Write an awesome description for your new site here. You can edit this line in
-  _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
+  Observatoire Sans Tête - Description
 baseurl: /
-url: 'https://my-site.github.io'
-twitter_username: gehelem
-github_username: jekyll
-domain: my-site.github.io
-theme: minima
+url: 'https://documentation.ostserver.fr'
 plugins:
-  - jekyll-feed
-  - ''
-New field 2: New field 2
-New field 3: New field 3
-New field 4: New field 4
+  - jekyll-default-layout
+  - jekyll-remote-theme
+github_username: gehelem
+domain: documentation.ostserver.fr
+remote_theme: pages-themes/dinky@v0.2.0
+
