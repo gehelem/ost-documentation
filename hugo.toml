@@ -1,6 +1,6 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'OST server'
+baseURL = 'https://documentation.ostserver.fr/'
+languageCode = 'fr-FR'
+title = 'Observatoire Sans Tête'
 # Change the default theme to be use when building the site with Hugo
 theme = "hugo-theme-relearn"
 
@@ -15,3 +15,19 @@ home = [ "HTML", "RSS", "SEARCH"]
     identifier = "relearn-light"
   [[params.themeVariant]]
     identifier = "relearn-dark"
+
+
+defaultContentLanguage = "fr"
+
+[languages]
+
+[languages.fr]
+title = 'Observatoire Sans Tête'
+weight = 1
+languageName = "Français"
+
+[languages.en]
+title = 'Observatoire Sans Tête'
+weight = 2
+languageName = "English"
+

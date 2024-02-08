@@ -2,7 +2,7 @@
 title: Installation rapide 
 weight : 21
 ---
-{{% notice style="warning" title="Attention" icon="exclamation-triangle" %}}
+{{% notice style="note" title="Attention" icon="exclamation-triangle" %}}
 Ne pas utiliser sur une installation existante, à moins de bien vérifier ce que fait le script
 (en particulier au niveau de nginx)
 {{% /notice %}}
