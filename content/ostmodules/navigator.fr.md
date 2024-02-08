@@ -1,0 +1,1 @@
+../../submodules/OST-modules/src/modules/navigator/navigator.fr.md

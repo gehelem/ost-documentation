@@ -1,0 +1,1 @@
+../../submodules/OST-modules/src/modules/allsky/allsky.fr.md
