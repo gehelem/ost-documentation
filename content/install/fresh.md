@@ -1,5 +1,6 @@
 ---
-title: Installation rapide  
+title: Installation rapide 
+weight : 21
 ---
 {{% notice style="warning" title="Attention" icon="exclamation-triangle" %}}
 Ne pas utiliser sur une installation existante, à moins de bien vérifier ce que fait le script
@@ -25,6 +26,11 @@ Ce script installe :
 - Indiwebmanager
 - Un service ostserver
 
-A l'issue de de ce script vous pouvez aller créer votre profil indiwebmanager, et y démarrer le serveur indi.
-![Indiweb](/static/indiweb.png)
-Puis aller sur la page d'OST
+A l'issue de de ce script vous pouvez aller créer votre profil indiwebmanager, 
+et y démarrer le serveur indi :
+
+![Indiweb](/images/indiweb.png)
+
+Puis aller sur la page d'acceuil OST :
+
+![OST1](/images/ost1.png)

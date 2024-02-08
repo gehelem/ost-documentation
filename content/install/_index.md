@@ -1,5 +1,6 @@
 ---
 title: Méthodes d'installation
+weight : 20
 ---
 
 

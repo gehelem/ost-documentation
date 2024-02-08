@@ -1,5 +1,6 @@
 ---
 title: Installation depuis les dépots Ubuntu
+weight : 22
 ---
 
 https://launchpad.net/~gehelem/+archive/ubuntu/ostserver
