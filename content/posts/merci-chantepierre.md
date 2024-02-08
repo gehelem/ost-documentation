@@ -14,5 +14,3 @@ Chantepierre répond
 {{% notice style="primary" title="Bisou" icon="fa-exclamation-triangle" %}}
 Merci Chantepierre !
 {{% /notice %}}
-
-{{% icon icon="exclamation-triangle" %}}
