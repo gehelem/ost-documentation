@@ -11,6 +11,8 @@ Je demande
 Chantepierre répond 
 - "oui".
 
-{{% notice style="primary" title="Bisou" icon="heart" %}}
+{{% notice style="primary" title="Bisou" icon="fa-exclamation-triangle" %}}
 Merci Chantepierre !
 {{% /notice %}}
+
+{{% icon icon="exclamation-triangle" %}}
