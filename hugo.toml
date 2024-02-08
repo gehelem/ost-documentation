@@ -10,4 +10,8 @@ home = [ "HTML", "RSS", "SEARCH"]
 
 [params]
   # Change default color scheme with a variant one.
-  themeVariant = "relearn-dark"
+
+  [[params.themeVariant]]
+    identifier = "relearn-light"
+  [[params.themeVariant]]
+    identifier = "relearn-dark"
