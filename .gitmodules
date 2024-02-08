@@ -1,3 +1,9 @@
 [submodule "themes/hugo-theme-relearn"]
 	path = themes/hugo-theme-relearn
 	url = https://github.com/McShelby/hugo-theme-relearn.git
+[submodule "submodules/OST-modules"]
+	path = submodules/OST-modules
+	url = https://github.com/gehelem/OST-modules.git
+[submodule "submodules/OST"]
+	path = submodules/OST
+	url = https://github.com/gehelem/OST.git
