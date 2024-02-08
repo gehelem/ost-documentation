@@ -31,3 +31,14 @@ title = 'Observatoire Sans Tête'
 weight = 2
 languageName = "English"
 
+[[menu.shortcuts]]
+name = "<i class='fab fa-fw fa-github'></i> GitHub"
+identifier = "ds"
+url = "https://github.com/gehelem/OST"
+weight = 10
+
+[[menu.shortcuts]]
+name = "<i class='fas fa-fw fa-bookmark'></i> Genèse"
+identifier = "webastro"
+url = "https://www.webastro.net/forums/topic/180582-ost-observatoire-sans-t%C3%AAte/"
+weight = 20
