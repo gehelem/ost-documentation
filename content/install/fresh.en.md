@@ -18,7 +18,7 @@ chmod +x install.sh
 ./install.sh
 ```
 
-This script installs:
+This script installs everything you need to have an operational set:
 - Indi server
 - Nginx
 - Some Astrometry.net indexes

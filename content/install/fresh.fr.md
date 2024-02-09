@@ -18,7 +18,7 @@ chmod +x install.sh
 ./install.sh
 ```
 
-Ce script installe :
+Ce script installe tout ce qu'il faut pour avoir un ensemble opérationnel :
 - Le serveur Indi
 - Nginx
 - Quelques index Astrometry.net
@@ -26,7 +26,7 @@ Ce script installe :
 - Indiwebmanager
 - Un service ostserver
 
-A l'issue de de ce script vous pouvez aller créer votre profil indiwebmanager, 
+A l'issue de ce script vous pouvez aller créer votre profil indiwebmanager, 
 et y démarrer le serveur indi :
 
 ![Indiweb](/images/indiweb.png)
