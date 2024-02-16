@@ -32,13 +32,19 @@ weight = 2
 languageName = "English"
 
 [[menu.shortcuts]]
-name = "<i class='fab fa-fw fa-github'></i> GitHub"
-identifier = "ds"
+name = "<i class='fab fa-fw fa-github'></i>GitHub"
+identifier = "gh"
 url = "https://github.com/gehelem/OST"
 weight = 10
 
 [[menu.shortcuts]]
-name = "<i class='fas fa-fw fa-bookmark'></i> Genèse sur Webastro"
+name = "<i class='fab fa-fw fa-discord'></i>Discord Astro-Fr"
+identifier = "dc"
+url = "https://bit.ly/ASTRO-FR"
+weight = 15
+
+[[menu.shortcuts]]
+name = "<i class='fas fa-fw fa-bookmark'></i>Genèse sur Webastro"
 identifier = "webastro"
 url = "https://www.webastro.net/forums/topic/180582-ost-observatoire-sans-t%C3%AAte/"
 weight = 20
