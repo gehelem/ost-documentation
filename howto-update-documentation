@@ -1,0 +1,9 @@
+1 
+modif depuis l'arborescence de ~/projets/ost-documentation/submodules/OST-modules/
+(suivi + commit + push)
+
+2 
+gilles@alzbig:~/projets/ost-documentation/submodules/OST-modules$ git submodule update
+
+3
+commit puis push sur ost-documentation
