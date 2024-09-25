@@ -8,3 +8,4 @@ Its modular design allows you to choose and customize the functions you want to 
 
 OST is and will remain an OpenSource project, using other components based on free use.
 
+![seq](sequence.png)

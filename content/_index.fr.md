@@ -9,3 +9,4 @@ Sa conception modulaire permet de choisir et de personnaliser les fonctions que 
 
 OST est et restera un projet OpenSource, utilisant d'autres composants basés sur une utilisation libre.
 
+![seq](sequence.png)
