@@ -69,7 +69,7 @@ Un élément représente une valeur unique, c'est le niveau le plus bas.
 - time : une heures/minutes/secondes/millisecondes
 - img : une image
 - video : une vidéo
-- light : 4 valeurs possible : standby, ok, warning, erreur
+- light : 4 valeurs possibles : standby, ok, warning, error
 - prg : une barre de progression ou un camembert
 - message : un message avec horodatage
 
@@ -83,7 +83,7 @@ Ce jeu de paramètres est commun à tous les éléments :
 |hint|string|Texte explicatif de l'élément, aide à la façon "infobulle"|
 |label|string|Libellé de l'élément|
 |order|string|Ordre d'affichage de l'élément dans la propriété|
-|type|string|Type de valeur - voir liste des valeurs possible ci-dessus|
+|type|string|Type de valeur - voir liste des valeurs possibles ci-dessus|
 
 ### Paramètres optionnels
 Ce jeu de paramètres n'est pas défini systématiquement.
